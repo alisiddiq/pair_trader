@@ -1,0 +1,12 @@
+dash==2.6.1
+Flask==2.2.2
+plotly==5.10.0
+dash-bootstrap-components==1.2.1
+pandas==1.4.1
+mysqlclient==2.1.1
+sqlalchemy==1.4.39
+tqdm==4.64.0
+scikit-learn==1.1.2
+gunicorn==20.0.4
+gevent==21.12.0
+statsmodels==0.13.2

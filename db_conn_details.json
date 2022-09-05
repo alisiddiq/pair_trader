@@ -1,0 +1,7 @@
+{
+  "host": "85.159.212.188",
+  "port": "33061",
+  "username": "root",
+  "password": "PASSWORD",
+  "db_name": "security_db"
+}

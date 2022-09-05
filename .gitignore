@@ -1,0 +1,8 @@
+.idea/
+.DS_Store
+MANIFEST
+dist/
+data/
+notebooks/
+.ipynb_checkpoints/
+__pycache__/
